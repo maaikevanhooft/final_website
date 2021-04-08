@@ -55,6 +55,7 @@
 
 .row{
     margin-bottom: 40px;
+    background-color: #F7EEF6;
 }
 
 
@@ -63,16 +64,16 @@
     text-align: center;
     font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 900;
-    margin-bottom: 10px;
-    margin-top: 10px;
+    margin-bottom: 0px;
+    margin-top: 20px;
 }
 .secondartist {
 	 color: #9C2A4E;
     text-align: center;
     font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 900;
-    margin-bottom: 10px;
-    margin-top: 10px;
+    margin-bottom: 0px;
+    margin-top: 20px;
 }
 
 .thirdartist {
@@ -93,10 +94,7 @@
     margin-bottom: 10px;
     margin-top: 10px;
 }
-.secondrow {
-    background-image: url(../images/backgroundlights.jpg);
-    background-size: cover;	
-}
+
 
 .img-fluid {
     margin-top: 30px;
@@ -129,4 +127,20 @@
     margin-top: auto;
     margin-left: auto;
     margin-bottom: auto;
+}
+
+.subtitle1{
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+    font-style: italic;
+    font-weight: lighter;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.subtitle2{
+	   font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+    font-style: italic;
+    font-weight: lighter;
+    text-align: center;
+    margin-top: 15px;
 }
