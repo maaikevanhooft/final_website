@@ -1,1 +1,123 @@
 @charset "UTF-8";
+
+.body{
+    background-color: #FFE0FE;	
+	
+}
+.navbar-expand-lg {
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    text-align: center;
+    
+}
+
+.searchtwo{
+    margin-top: auto;
+    margin-left: auto;
+    margin-bottom: auto;
+}
+
+.display-4{
+    color: #FFB6B7;
+    text-align: center;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+    font-weight: 700;
+}
+
+.lead{
+    text-align: center;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #000000;
+}
+.Subtext {
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-align: center;	
+}
+.button {
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: #FFB6B7;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    border-color: #FFB6B7;
+}
+
+.jumbotron{
+    background-image: url(../images/Lights.jpg);
+    background-size: cover;	
+}
+.Title {
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+    font-weight: 400;
+    text-align: center;
+    color: #9C2A4E;
+    padding-bottom: 20px;
+}
+
+.row{
+    margin-bottom: 40px;
+}
+
+
+.firstartist {
+    color: #9C2A4E;
+    text-align: center;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 900;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.secondartist {
+	 color: #9C2A4E;
+    text-align: center;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 900;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+.thirdartist {
+	 color: #9C2A4E;
+    text-align: center;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 900;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+
+.fourthartist {
+	 color: #9C2A4E;
+    text-align: center;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 900;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.secondrow {
+    background-image: url(../images/backgroundlights.jpg);
+    background-size: cover;	
+}
+
+.img-fluid {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+
+.lineup {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+    text-align: left;
+}
+
+.footer{
+    background-color: #9C2A4E;
+    color: #FFB6B7;
+    text-align: right;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 300;
+}
+
+.searchtwo {
+}
