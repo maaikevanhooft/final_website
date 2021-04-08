@@ -119,5 +119,14 @@
     font-weight: 300;
 }
 
-.searchtwo {
+.form-control{
+    margin-top: auto;
+    margin-left: auto;
+    margin-bottom: auto;
+}
+
+.my-2{
+    margin-top: auto;
+    margin-left: auto;
+    margin-bottom: auto;
 }
