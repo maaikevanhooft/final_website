@@ -10,12 +10,6 @@
     
 }
 
-.searchtwo{
-    margin-top: auto;
-    margin-left: auto;
-    margin-bottom: auto;
-}
-
 .display-4{
     color: #FFB6B7;
     text-align: center;
@@ -39,12 +33,14 @@
     background-color: #FFB6B7;
     font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
     border-color: #FFB6B7;
+    margin-bottom: 20px;	
 }
 
 .jumbotron{
     background-image: url(../images/Lights.jpg);
-    background-size: cover;	
-	background-attachment: fixed;
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;	
 	
 }
 .Title {
@@ -114,7 +110,7 @@
 .footer{
     background-color: #9C2A4E;
     color: #FFB6B7;
-    text-align: right;
+    text-align: center;
     font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 300;
 }
@@ -129,6 +125,13 @@
     margin-top: auto;
     margin-left: auto;
     margin-bottom: auto;
+}
+
+.handsup{
+    border-top-left-radius: 274px;
+    border-top-right-radius: 274px;
+    border-bottom-right-radius: 274px;
+    border-bottom-left-radius: 274px;
 }
 
 .subtitle1{
@@ -165,4 +168,40 @@
 .popularplaces{
     text-align: center;
     font-weight: 200;
+}
+
+.headerfoodtrucks{
+    color: #9C2A4E;
+    text-align: center;
+    font-weight: 200;
+}
+
+.col{
+    text-align: center;	
+	
+}
+
+.yoursucces{
+    color: #9C2A4E;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    text-align: center;
+    font-style: italic;
+    font-weight: 200;
+}
+
+.carousel{
+    margin-top: 10px;	
+}
+
+.quote1{
+    font-style: italic;
+    font-weight: 300;
+    text-align: center;
+}
+
+.quote2{
+	font-style: italic;
+    font-weight: 300;
+    text-align: center;
+}.handsup {
 }
