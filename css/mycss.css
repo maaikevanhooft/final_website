@@ -127,13 +127,6 @@
     margin-bottom: auto;
 }
 
-.handsup{
-    border-top-left-radius: 274px;
-    border-top-right-radius: 274px;
-    border-bottom-right-radius: 274px;
-    border-bottom-left-radius: 274px;
-}
-
 .subtitle1{
     font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
     font-style: italic;
